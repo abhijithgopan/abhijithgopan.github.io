@@ -17,6 +17,25 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/welcome-post/",
+            "title": "Welcome to my blog.",
+            "summary": null,
+            "content_text": "Welcome to my personal blog",
+            "content_html": "<p>Welcome to my personal blog</p>",
+            "url": "http://localhost:4000/welcome-post/",
+            
+            
+            
+            "tags": ["blog","thoughts"],
+            
+            "date_published": "2024-03-05T05:30:00+05:30",
+            "date_modified": "2024-03-05T05:30:00+05:30",
+            
+                "author": "Abhijith"
+            
+        },
+    
+        {
             "id": "http://localhost:4000/ephesus-jekyll-blog-theme/",
             "title": "Ephesus Jekyll Blog Theme",
             "summary": null,

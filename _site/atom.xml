@@ -4,13 +4,22 @@
  <title>Abhijith</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-03-05T12:54:29+05:30</updated>
+ <updated>2024-03-05T13:10:33+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Abhijith</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Welcome to my blog.</title>
+   <link href="http://localhost:4000/welcome-post/"/>
+   <updated>2024-03-05T05:30:00+05:30</updated>
+   <id>http://localhost:4000/Welcome-post</id>
+   <content type="html">&lt;p&gt;Welcome to my personal blog&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Ephesus Jekyll Blog Theme</title>
