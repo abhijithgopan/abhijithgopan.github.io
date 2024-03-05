@@ -43,7 +43,8 @@ body{
 }
 
 .footer{
-  display: flex; 
+  margin-top: auto; 
+  
   flex-direction: row; 
   flex-wrap: wrap; 
   justify-content: center;
