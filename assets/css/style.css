@@ -51,7 +51,7 @@ body{
   padding: 5px 10px;
   background: var(--bg-color);
   border:1px dashed var(--border-color);
-  font-size: 12px;
+  font-size: 10px;
 }
 
 .post-list{
