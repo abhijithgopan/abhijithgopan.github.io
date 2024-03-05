@@ -4,7 +4,7 @@
  <title>Abhijith</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-03-05T13:15:13+05:30</updated>
+ <updated>2024-03-05T13:31:13+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Abhijith</name>
@@ -13,80 +13,23 @@
 
  
  <entry>
-   <title>Welcome to my blog.</title>
-   <link href="http://localhost:4000/welcome-post/"/>
-   <updated>2024-03-05T05:30:00+05:30</updated>
-   <id>http://localhost:4000/Welcome-post</id>
-   <content type="html">&lt;p&gt;Welcome to my personal blog&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Ephesus Jekyll Blog Theme</title>
-   <link href="http://localhost:4000/ephesus-jekyll-blog-theme/"/>
-   <updated>2021-09-22T05:30:00+05:30</updated>
-   <id>http://localhost:4000/Ephesus-Jekyll-Blog-Theme</id>
-   <content type="html">&lt;p&gt;Lorem markdownum nimiumque inutile ulterius tum fluctus arbore aethere in
-laqueosque lorisque tabuerit. Timor pectoraque vetus conspiceris donis arbitrium
-fecerat &lt;em&gt;ait dulci&lt;/em&gt; et reus vultumque ubi &lt;a href=&quot;http://una.net&quot;&gt;mittere&lt;/a&gt; cernunt
-hosti.&lt;/p&gt;
+   <title>Favorite malayalam movies watched this year</title>
+   <link href="http://localhost:4000/fav-malayalam-movies-of-2023/"/>
+   <updated>2023-12-29T05:30:00+05:30</updated>
+   <id>http://localhost:4000/fav-malayalam-movies-of-2023</id>
+   <content type="html">&lt;h4 id=&quot;1-purusha-pretham&quot;&gt;1. Purusha Pretham&lt;/h4&gt;
+&lt;p&gt;Krishand’s &lt;a href=&quot;https://boxd.it/EkO0&quot;&gt;&lt;em&gt;Purusha Pretham&lt;/em&gt;&lt;/a&gt; will undoubtedly take first place on my list. I loved his previous work &lt;em&gt;Aavasavyuham&lt;/em&gt; and when he announced Purusha Pretham, my expectations where high.The movie is  experimental in many ways, like the cinematography, story telling,music etc and the makers succeeded in not boring the audience. The performances by Jagadish and Prasanth Alexander were outstanding.&lt;/p&gt;
+&lt;h4 id=&quot;2-kannur-squad&quot;&gt;2. Kannur Squad&lt;/h4&gt;
+&lt;p&gt;Mammootty Kampany, the production house by the legendary actor Mammootty, had  only produced two films before this film and their previous productions where well-accepted by the audience.  Their third film, &lt;a href=&quot;https://boxd.it/EkOu&quot;&gt;&lt;em&gt;Kannur Squad&lt;/em&gt;&lt;/a&gt;, which came to cinemas with low hype became a blockbuster at the box-office through word of mouth. Roby Raj’s directorial debut, which is based on Kerala Police’s investigation team Kannur Squad is a well made movie with superb cinematography and background music. I watched the film in theatres and the experience was good.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#include&lt;/span&gt; &lt;span class=&quot;cpf&quot;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;span class=&quot;cp&quot;&gt;
-&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;//Function declarations&lt;/span&gt;
-&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;is_prime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;goldbach&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;g&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;h4 id=&quot;3-iratta&quot;&gt;3. Iratta&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://boxd.it/zELA&quot;&gt;&lt;em&gt;Iratta&lt;/em&gt;&lt;/a&gt; is an investigative thriller  directed by Rohith Krishnan which amused me by its climax. Joju George as an actor gives a terrific performance in this film. The ending is the major positive of the movie. The film didn’t get a long run in the theatres and failed at the box-office is a sad part. This film deserved much more success in the theatre.&lt;/p&gt;
 
-&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
-	&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;number&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-	&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
-		&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Enter even number:&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-		&lt;span class=&quot;n&quot;&gt;scanf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%d&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;number&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-		&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;number&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;number&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
-			&lt;span class=&quot;n&quot;&gt;goldbach&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;number&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-		&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-		&lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-			&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Incorrect number!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-		&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-		&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h4 id=&quot;4-falimy&quot;&gt;4. Falimy&lt;/h4&gt;
+&lt;p&gt;I loved &lt;a href=&quot;https://boxd.it/DwWe&quot;&gt;&lt;em&gt;Falimy&lt;/em&gt;&lt;/a&gt;, its a simple yet beautiful film with many laughable moments. Jagadish, Basil, Manju Pillai and that Appooppan everyone did a great job in entertaining the audience in this movie.&lt;/p&gt;
 
-&lt;h2 id=&quot;nec-partus-ferox-veniam-serpentis-servet-viro&quot;&gt;Nec partus ferox veniam serpentis servet viro&lt;/h2&gt;
-
-&lt;p&gt;Sed &lt;strong&gt;premunt turba verum&lt;/strong&gt; circueunt ex inmurmurat confundit area premente
-&lt;a href=&quot;http://spectante-mulcet.com/magna&quot;&gt;unus&lt;/a&gt;, qui resupinus facit adsuetam. Dixit
-sic &lt;em&gt;tandemque vultus aniles&lt;/em&gt; fuerat vulgares removete arva silet, mutabitur
-ramos omnes absens Idan vallibus volucrem. Feremus loquuntur furit &lt;strong&gt;rerum
-pectora violata&lt;/strong&gt;, aevo &lt;a href=&quot;http://laborum.net/modo&quot;&gt;unda condita&lt;/a&gt; non bracchia
-viscera. &lt;em&gt;Candida saepe&lt;/em&gt; rettulit tegumen &lt;strong&gt;abest de si&lt;/strong&gt;, et procul, hoc qui
-liquidarum, totidem pars pavidum filia iam.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aulaea saevam&lt;/li&gt;
-  &lt;li&gt;Animam conquerar&lt;/li&gt;
-  &lt;li&gt;Lycormas fatemur germanam&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fata-huc-cessura-secant&quot;&gt;Fata huc cessura secant&lt;/h2&gt;
-
-&lt;p&gt;Est urbem ferrum gratia altera? In nec profundo valuit vidit, ira o adhuc
-convicia. Quoque simul, nisi ausis equus tum veluti: gener. Lacu abesset pinnas,
-albaque, esto, quem quod.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Deceant tormenta nomine&lt;/li&gt;
-  &lt;li&gt;Furti visi honorati Dardanio profundo genus superos&lt;/li&gt;
-  &lt;li&gt;Cum cadi fundit accensus silentibus ipsa ambiguum&lt;/li&gt;
-  &lt;li&gt;Cogis data sparsosque falleret nepos de sedem&lt;/li&gt;
-  &lt;li&gt;Ingeminat falcato somno iratus fac paterna&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Sua communiter&lt;/strong&gt; hoc exire iurares usus, &lt;em&gt;percusso iunonis tibi&lt;/em&gt;? Ubi magna
-crinem adsueta ancipitesque sitim; et genus ferumque? Quod &lt;strong&gt;lupos tutus&lt;/strong&gt;, cum
-insania &lt;a href=&quot;http://sparserat.org/cinyras&quot;&gt;tanta Cephalum&lt;/a&gt; harundine eligit
-genitoris ad concutit.&lt;/p&gt;
+&lt;h4 id=&quot;5-pookkaalam&quot;&gt;5. Pookkaalam&lt;/h4&gt;
+&lt;p&gt;Ganesh Raj’s &lt;a href=&quot;https://boxd.it/Bm8O&quot;&gt;&lt;em&gt;Pookkaalam&lt;/em&gt;&lt;/a&gt; is a small movie which loved for its simplicity. Vijayaraghavan did an amazing performance in this movie. The combo scenes by Basil Joseph and Vineeth Sreenivasan was awesome.&lt;/p&gt;
 </content>
  </entry>
  
