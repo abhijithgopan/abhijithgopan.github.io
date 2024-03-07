@@ -18,7 +18,7 @@
 }
 
 body{
-  font-family: system-ui, Google Sans Text, sans-serif;
+  font-family: Inter, sans-serif;
   font-weight: 300;
   background: var(--body-bg);
   color: var(--primary-font-color);
